@@ -11,47 +11,17 @@ body { font-family: "Times", serif; }
 .fs { font-size: 80px; }
 .mix {	width: 95%; }
 .over_flow{ margin-top: -40%; margin-left: -60%; }
-.mix2
-{
-	width: 75%;
-	margin-left: 60px;
-}
-.col-lg-4, .col-md-4 ,.col-12 {
-	margin-left: : 20px;
-}
-.col-lg-4, .col-md-6 ,.col-12 {
-	padding-right: 1rem;
-}
-.img {
-	padding-left: 8rem;
-}
 
-#first {
-    background: #21AFFF;
-}
-#WhyInocove {
-	color : white;
-	font-size: 2.0rem;
-}
-element.style {
-    background-color: #F5FBFF;
-}	
-.color1 {
-	background:  #21AFFF;
-}
-.rows {
-	background-color: #F5FBFF;
-}
-element.style {
-    background-color: #F5FBFF;
-}
-.btn {
-	border-radius: .75rem;
-	    font-size: 1.5rem;
-}
-.row {
-	margin-right: 0;
-}
-.ml-auto, .mx-auto {
-    margin-left: 100px;
-}
+.mix2 { width: 75%; margin-left: 60px; }
+.img { padding-left: 8rem; } 
+#first { background: #21AFFF; }
+
+#WhyInocove {color : white; font-size: 2.0rem; }
+element.style { background-color: #F5FBFF; }
+ 	
+.color1 { background:  #21AFFF; }
+.rows { background-color: #F5FBFF; }
+element.style { background-color: #F5FBFF; }
+.btn { border-radius: .75rem;  font-size: 1.5rem; }
+.row { margin-right: 0; }
+.ml-auto, .mx-auto {  margin-left: 100px; }
